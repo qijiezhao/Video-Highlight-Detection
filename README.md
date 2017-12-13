@@ -1,2 +1,18 @@
 # Video-Highlights-Detection
-video highlights detection with deep networks
+Video highlights detection with **deep networks**
+
+Some example results:
+
+![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img1.png)
+
+![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img2.png)
+
+![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img3.png)
+
+![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img4.png)
+
+scheduels:
+- [x] prepare
+- [x] main experiments
+- [ ] ablations
+- [ ] TBA
