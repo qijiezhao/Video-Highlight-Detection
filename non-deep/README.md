@@ -65,7 +65,7 @@ filter length| AP | recall
 20| 0.45| 0.51
 40| 0.39| 0.42
 80| 0.31| 0.38
-fusion 8,12,20,40,80|0.15|0.81
-fusion 4,8,12,20,40,80|0.13|0.85
+fusion 8,12,20,40,80 + nms|0.45|0.81
+fusion 4,8,12,20,40,80+ nms|0.43|0.85
 
 Tips: fusion results are not processed by nms, although it proves not very much.
