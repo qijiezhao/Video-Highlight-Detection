@@ -56,7 +56,8 @@ Tips: SVM with x2 kernel or rbf kernel may bring higher result, but we should co
 highlights score curves are generated from above, here we smooth them with multiple filters and then watersh them to final results.
 
 set: IoU=0.5
- filter length| AP | recall
+
+filter length| AP | recall
 ---|---|---
 4 | 0.41| 0.56
 8 | 0.49| 0.51
