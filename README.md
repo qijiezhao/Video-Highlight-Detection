@@ -7,8 +7,6 @@ In this repo, Video Highlight Detection (VHD) are talked about.
 
 
 
-
-
 Proposed codes :
 - [x] prepare
 - [ ] main experiments
