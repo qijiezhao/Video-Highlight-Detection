@@ -1,0 +1,1 @@
+python watershed_main.py --process test --dataset baidu_VH --thread 100 --model_name xgb --modality fusion --type smooth --alter 10 20 --save_path tmp_results/final_ultimate.json

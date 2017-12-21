@@ -1,0 +1,1 @@
+python2 watershed_main.py --process train --dataset baidu_VH --thread 100 --model_name xgb --modality fusion --type smooth

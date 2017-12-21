@@ -1,18 +1,25 @@
 # Video-Highlights-Detection
-Video highlights detection with **deep networks**
 
-Some example results:
+In this repo, Video Highlight Detection (VHD) are talked about.
 
-![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img1.png)
+[**Baidu_VH**](http://ai.baidu.com/broad/introduction) is the first large-scale dataset about VDH, main experiments are based on it.
 
-![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img2.png)
 
-![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img3.png)
 
-![image](https://github.com/qijiezhao/Video-Highlights-Detection/images/example_img4.png)
 
-scheduels:
+
+
+Proposed codes :
 - [x] prepare
-- [x] main experiments
+- [ ] main experiments
+- - [x] non-deep models
+- - [ ] deep models
 - [ ] ablations
 - [ ] TBA
+
+-----
+Tips:
+
+Non-deep models now have achieved 42% mAP (IoU ranges from 0.5 to 0.95 on BaiduVH dataset, each gap is 0.05)on the validtion set.
+
+Performance on deep models is going to be proposed later.
