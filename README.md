@@ -21,3 +21,9 @@ Tips:
 Non-deep models now have achieved 42% mAP (IoU ranges from 0.5 to 0.95 on BaiduVH dataset, each gap is 0.05)on the validtion set.
 more information about non-deep, please refer to the 'non-deep' directory.
 Performance on deep models is going to be proposed later.
+
+### Result records:
+
+- Baidu VH [preliminary stage](https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31/leaderboard):mAP=33.9% 
+
+Note that we only take xgb+lr yet(non-deep), and only 1% training data is used. We will refresh our result soon, by replacing xgb+lr with a mlp slightly.
