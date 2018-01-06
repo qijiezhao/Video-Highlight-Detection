@@ -30,7 +30,7 @@ This is implemented by modified version of xiong's TAG. The experimental report/
 
 
 
-- Baidu VH [preliminary stage](https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31/leaderboard):mAP = 33.9% 
+- Baidu VHD [preliminary stage](https://www.kesci.com/apps/home/competition/5a41bca63bf3464aab731a31/leaderboard):mAP = 33.9% 
 
 Note that we only take xgb+lr yet(non-deep), and only 1% training data is used. We will refresh our result soon, by replacing xgb+lr with a mlp slightly and using full training set.
 
